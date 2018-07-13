@@ -1,15 +1,15 @@
 # htmlgame
 
-htmlgame is a website Learning how to create a game with HTML5 + Javascript 
+htmlgame is an educational website to learn how to create a game with HTML5 + Javascript 
 
 ## Feature
 
-Video tutorials
+* Video base tutorials
 
 ## Get Started
 
-Following: https://rainingchain.com/tutorial/nodejs 
+[Get started here](https://rainingchain.com/tutorial/nodejs )
 
 Tutorial By: /u/RainingChain
 
-Follow my Youtube channel https://www.youtube.com/user/RainingChain
+Also subscribe to my [Youtube channel](https://www.youtube.com/user/RainingChain)
